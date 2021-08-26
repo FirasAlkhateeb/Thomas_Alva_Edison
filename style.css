@@ -1,0 +1,37 @@
+body{
+    padding-top: 20px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#center{
+    text-align: center;
+    font-size: 45px;
+}
+
+.paragraph{
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+div{
+    margin: 35px;
+    padding: 50px;
+    border: solid;
+    text-align: justify;
+}
+
+.images1{
+    margin-left: 250px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+}
+
+.images2{
+   margin-left: 500px;
+   margin-top: -30px;
+   margin-bottom: -30px;
+}
+
+.images3{
+   margin-left: 270px;
+}
